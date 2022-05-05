@@ -1,0 +1,25 @@
+# ninja log v5
+4	686	6730817933144724	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+687	872	6730817934959854	recursive_to_iterative.exe	ccc2265891057e17
+5	547	6730819316450482	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+547	745	6730819318355028	recursive_to_iterative.exe	ccc2265891057e17
+3	604	6730820906334025	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+604	772	6730820907940262	recursive_to_iterative.exe	ccc2265891057e17
+4	521	6730821193892663	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+522	687	6730821195478071	recursive_to_iterative.exe	ccc2265891057e17
+3	746	6730821297283206	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+747	933	6730821299111183	recursive_to_iterative.exe	ccc2265891057e17
+5	645	6730822787298099	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+645	892	6730822789508828	recursive_to_iterative.exe	ccc2265891057e17
+3	516	6730823854831809	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+517	747	6730823857092403	recursive_to_iterative.exe	ccc2265891057e17
+4	468	6730826917908073	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+468	628	6730826919473047	recursive_to_iterative.exe	ccc2265891057e17
+3	604	6730827221240955	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+605	801	6730827223165714	recursive_to_iterative.exe	ccc2265891057e17
+6	996	6734798489103970	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+997	1528	6734798494386830	recursive_to_iterative.exe	ccc2265891057e17
+5	534	6734799322525397	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+534	685	6734799323983614	recursive_to_iterative.exe	ccc2265891057e17
+5	657	6734799571901943	CMakeFiles/recursive_to_iterative.dir/Source.cpp.obj	1cd9319cf2797022
+658	815	6734799573458070	recursive_to_iterative.exe	ccc2265891057e17
